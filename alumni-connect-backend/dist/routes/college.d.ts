@@ -1,0 +1,1 @@
+//# sourceMappingURL=college.d.ts.map
